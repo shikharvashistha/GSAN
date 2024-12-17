@@ -11,3 +11,5 @@ python main.py --dataset cora --checkpoint ./checkpoints/best_model.pth
 ```
 or 
 - run ``` python main.py ``` - for default settings
+
+#### Note: We will release the training code soon.
